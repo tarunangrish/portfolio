@@ -36,7 +36,7 @@ hr {
     height: 0
 }
 header .logo a {
-	left: 30px;
+	left: 20px;
 	background-color: #0000000;
 	top: 0;
 	position: absolute;
@@ -44,7 +44,7 @@ header .logo a {
 	padding: 15px;
 }
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	color: #3d3d3d;
 }
