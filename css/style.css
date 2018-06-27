@@ -470,18 +470,19 @@ body {
 	text-align: center;
 }
 .home_title h1{
-	font-size: 130px;
+  font-family: Poiret One;
+	font-size: 160px;
     color: #fff;
 }
 .home_title #subtitle{
-    color: #fbd54a;
+    color: #fbd54e;
     font-size: 32px;
     height: 40px;
     margin: 20px 0;
 	display: inline;
 }
 .typed-cursor {
-	color: #3d3d3d;
+	color: #ffffff;
     font-size: 32px;
     height: 40px;
     margin: 20px 0;
