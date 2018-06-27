@@ -489,7 +489,7 @@ body {
 	display: inline;
 }
 /*------------------------------------------------------------------------------------------*/
-/* 5. PROFILE PAGE */
+/* Profile waala Page */
 /*------------------------------------------------------------------------------------------*/
 #profile-page {
   background-color: #fff;
@@ -498,18 +498,18 @@ body {
     display: table;
 }
 .profile-data {
-    list-style: none;
+  list-style: none;
 	padding: 0;
 	margin: 0;
 }
 .profile-data .fa {
     margin-right: 10px;
-	font-size: 40px;
+	font-size: 30px;
 	color: #f1c311;
 	width: 30px;
 }
 .profile-data li {
-    margin: 15px 0;
+    margin: 30px 0;
 }
 .profile-data li:first-child {
     margin: 0;
@@ -548,7 +548,7 @@ body {
     color: #f1c311;
     display: block;
     margin-bottom: 15px;
-	margin-top: 15px;
+  	margin-top: 15px;
 }
 .cv-btn:hover {
 	background: #f1c311;
@@ -558,7 +558,7 @@ body {
     margin-right: 10px;
 }
 /*------------------------------------------------------------------------------------------*/
-/* 6. RESUME PAGE */
+/*CV Page */
 /*------------------------------------------------------------------------------------------*/
 #resume-page {
   background-color: #fff;
@@ -681,7 +681,7 @@ body {
     list-style-type: lower-roman;
 }
 /*------------------------------------------------------------------------------------------*/
-/* 7. SERVICES PAGE */
+/* Skills & Interests bitch */
 /*------------------------------------------------------------------------------------------*/
 #services-page {
   background-color: #fff;
@@ -745,7 +745,7 @@ body {
     color: #fff;
 }
 /*------------------------------------------------------------------------------------------*/
-/* 8. PORTFOLIO PAGE */
+/* Portfolio Section */
 /*------------------------------------------------------------------------------------------*/
 #portfolio-page {
   background-color: #fff;
