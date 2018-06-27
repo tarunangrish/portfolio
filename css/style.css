@@ -919,7 +919,7 @@ body {
    left: 0;
    position: fixed;
    display: block;
-   background-color: #000000;
+   background-color: #333333;
    z-index: 999999;
    text-align: center;
 }
