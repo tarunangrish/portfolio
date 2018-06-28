@@ -68,8 +68,8 @@ $(window).resize(function() {
 document.addEventListener('DOMContentLoaded', function() {
     new Typed('.home_title #subtitle', {
         strings: ['Sweet child o mine', 'I like to do UI Designing, Animation and Prototyping.', 'I deliver beautiful and usable designs for Websites and Apps.'],
-        typeSpeed: 30,
-        backSpeed: 20,
+        typeSpeed: 100,
+        backSpeed: 100,
         smartBackspace: true,
         loop: true
     });
